@@ -15,12 +15,13 @@ SETU (Bridge) is an AI-powered intelligence platform designed to safeguard commu
 ## 📁 Project Structure
 
 ```
-/index.html          SETU Home
-/kavach.html          Early Warning Dashboard
-/sachchi.html         Fact-Check Center
-/sangam.html          Community Dialogue
-/dastaan.html         Memory Archive
-/panah.html           Displaced Person Support
+/html/
+  index.html           SETU Home
+  kavach.html          Early Warning Dashboard
+  sachchi.html         Fact-Check Center
+  sangam.html          Community Dialogue
+  dastaan.html         Memory Archive
+  panah.html           Displaced Person Support
 /css/
   index.css           Page-specific styles for index.html
   kavach.css          Page-specific styles for kavach.html
