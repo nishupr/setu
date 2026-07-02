@@ -108,7 +108,7 @@ function App() {
   if (isMobile) return <MobileBlock />
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/setu">
       {!splashDone && (
         <Splash onDone={() => {
           window.scrollTo({ top:0, behavior:'instant' })
@@ -121,7 +121,7 @@ function App() {
         <Route path="/signup" element={<Signup />} />
       </Routes>
     </BrowserRouter>
-  )
+  )  
 }
 
 export default App
