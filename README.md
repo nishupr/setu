@@ -12,16 +12,6 @@ SETU (Bridge) is an AI-powered intelligence platform designed to safeguard commu
 4. **DASTAAN (Memory Archive)**: A living digital museum of survivor narratives and interactive history.
 5. **PANAH (Displaced Person Support)**: Digital ID management and family reunification hub.
 
-## 📁 Project Structure
-
-- `/index.html` (SETU Home)
-- `/kavach.html` (Early Warning Dashboard)
-- `/sachchi.html` (Fact-Check Center)
-- `/sangam.html` (Community Dialogue)
-- `/dastaan.html` (Memory Archive)
-- `/panah.html` (Displaced Person Support)
-- `/README.md` (This file)
-
 ## 🛠️ Deployment
 
 Deployed via **GitHub Pages** at [nishupr.github.io/setu](https://nishupr.github.io/setu/), served from the `main` branch.
