@@ -1,34 +1,10 @@
-<<<<<<< HEAD
-# SETU — Peace Intelligence Platform
-
-SETU (Bridge) is an AI-powered intelligence platform designed to safeguard communal harmony through five specialized pillars.
-
-🔗 **Live Demo:** [https://nishupr.github.io/setu/](https://nishupr.github.io/setu/)
-
-## 🚀 The Five Pillars
-
-1. **KAVACH (Early Warning System)**: District-level dashboard for real-time sentiment analysis and tension detection.
-2. **SACHCHI (Fact-Check Center)**: Multilingual misinformation verification and deepfake detection tool.
-3. **SANGAM (Community Dialogue)**: AI-moderated anonymous spaces for cross-community conversations.
-4. **DASTAAN (Memory Archive)**: A living digital museum of survivor narratives and interactive history.
-5. **PANAH (Displaced Person Support)**: Digital ID management and family reunification hub.
-
-## 🛠️ Deployment
-
-Deployed via **GitHub Pages** at [nishupr.github.io/setu](https://nishupr.github.io/setu/), served from the `main` branch.
-
-Any updates pushed to `main` go live at the same URL after GitHub Pages rebuilds (usually within a minute or two).
-
----
-
-_Developed with Shanti Peace Intelligence Design System._
-=======
 <div align="center">
 
 # 🌉 SETU
+
 ### Peace Intelligence Platform
 
-*Bridging communities through AI-powered early warning, fact-checking, and dialogue.*
+_Bridging communities through AI-powered early warning, fact-checking, and dialogue._
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-nishupr.github.io%2Fsetu-6d28d9?style=for-the-badge)](https://nishupr.github.io/setu/)
 
@@ -38,17 +14,17 @@ _Developed with Shanti Peace Intelligence Design System._
 
 ## ✨ About
 
-**SETU** (सेतु — *"Bridge"*) is an AI-powered intelligence platform built to safeguard communal harmony. It brings together early-warning analytics, misinformation defense, mediated dialogue, historical memory, and humanitarian support into one connected system — five pillars, one mission.
+**SETU** (सेतु — _"Bridge"_) is an AI-powered intelligence platform built to safeguard communal harmony. It brings together early-warning analytics, misinformation defense, mediated dialogue, historical memory, and humanitarian support into one connected system — five pillars, one mission.
 
 ## 🚀 The Five Pillars
 
-| Pillar | Purpose |
-|---|---|
-| 🛡️ **KAVACH** — Early Warning System | District-level dashboard for real-time sentiment analysis and tension detection |
-| 🔍 **SACHCHI** — Fact-Check Center | Multilingual misinformation verification and deepfake detection |
-| 🤝 **SANGAM** — Community Dialogue | AI-moderated anonymous spaces for cross-community conversations |
-| 📜 **DASTAAN** — Memory Archive | A living digital museum of survivor narratives and interactive history |
-| 🏠 **PANAH** — Displaced Person Support | Digital ID management and family reunification hub |
+| Pillar                                  | Purpose                                                                         |
+| --------------------------------------- | ------------------------------------------------------------------------------- |
+| 🛡️ **KAVACH** — Early Warning System    | District-level dashboard for real-time sentiment analysis and tension detection |
+| 🔍 **SACHCHI** — Fact-Check Center      | Multilingual misinformation verification and deepfake detection                 |
+| 🤝 **SANGAM** — Community Dialogue      | AI-moderated anonymous spaces for cross-community conversations                 |
+| 📜 **DASTAAN** — Memory Archive         | A living digital museum of survivor narratives and interactive history          |
+| 🏠 **PANAH** — Displaced Person Support | Digital ID management and family reunification hub                              |
 
 ## 📁 Project Structure
 
@@ -97,7 +73,6 @@ Any update pushed to `main` goes live automatically after GitHub Pages rebuilds 
 
 <div align="center">
 
-*Developed with the Shanti Peace Intelligence Design System.*
+_Developed with the Shanti Peace Intelligence Design System._
 
 </div>
->>>>>>> parent of e383ade (Merge pull request #1 from Niteshagarwal01/main)
