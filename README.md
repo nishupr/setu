@@ -74,4 +74,5 @@ Any update pushed to `main` goes live automatically after GitHub Pages rebuilds 
 <div align="center">
 
 _Developed with the Shanti Peace Intelligence Design System._
-</div>
+
+</div> 
